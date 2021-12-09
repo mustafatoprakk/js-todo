@@ -56,7 +56,7 @@
 .p-bg-color{
     background-color: rgb(223, 226, 226);
 }
-
+```
 
 # js
 ```
@@ -76,5 +76,4 @@ addBtn.addEventListener("click", function(){
         noteParagraph.classList.add("p-bg-color")
     })
 })
-```
 ```
